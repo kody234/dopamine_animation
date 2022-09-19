@@ -5,7 +5,7 @@ I recreated this animation using animation controller and tween
 
 # :camera_flash: ScreenShots
 
-<img src="https://i.ibb.co/R7J9K79/Screenshot-20220804-121851.png" width="200" />
+<img src="[https://i.ibb.co/R7J9K79/Screenshot-20220804-121851.png](https://media.giphy.com/media/RChwoS28Srr6wUR250/giphy.gif)" width="200" />
 <iframe src="https://giphy.com/embed/RChwoS28Srr6wUR250" width="264" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/RChwoS28Srr6wUR250">via GIPHY</a></p>
 
 ## Getting Started
